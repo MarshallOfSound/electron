@@ -63,6 +63,8 @@ contains documents describing how to build and contribute to Electron.
 Clone and run the [`electron/electron-quick-start`](https://github.com/electron/electron-quick-start)
 repository to see a minimal Electron app in action.
 
+THIS IS SANE
+
 ## Community
 
 You can ask questions and interact with the community in the following
