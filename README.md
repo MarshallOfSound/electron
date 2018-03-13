@@ -43,7 +43,7 @@ Guides and the API reference are located in the
 [docs](https://github.com/electron/electron/tree/master/docs) directory. It also
 contains documents describing how to build and contribute to Electron.
 
-## Documentation Translations
+## Documentation Translations Foo
 
 - [Brazilian Portuguese](https://github.com/electron/electron/tree/master/docs-translations/pt-BR)
 - [Korean](https://github.com/electron/electron/tree/master/docs-translations/ko-KR)
