@@ -20,3 +20,5 @@ node_modules/
 *.pyc
 debug.log
 npm-debug.log
+
+this will be deleted
