@@ -1,4 +1,4 @@
-{
+{3
   'includes': [
     'toolchain.gypi',
     'vendor/brightray/brightray.gypi',
