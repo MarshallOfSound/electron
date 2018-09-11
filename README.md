@@ -19,7 +19,7 @@ behavior to electron@github.com.
 
 New stuff, with bad commit
 
-## Downloads
+## Downloads 2
 
 Prebuilt binaries and debug symbols of Electron for Linux, Windows and macOS can
 be found on the [releases](https://github.com/electron/electron/releases) page.
