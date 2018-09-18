@@ -20,7 +20,7 @@ The `app` object emits the following events:
 
 ### Event: 'will-finish-launching2'
 
-Emitted when the application has finished basic startup. On Windows and Linux,
+Emitted when the applications has finished basic startup. On Windows and Linux,
 the `will-finish-launching` event is the same as the `ready` event; on macOS,
 this event represents the `applicationWillFinishLaunching` notification of
 `NSApplication`. You would usually set up listeners for the `open-file` and
