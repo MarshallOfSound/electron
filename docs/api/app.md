@@ -50,7 +50,7 @@ app quits or not. If the user pressed `Cmd + Q`, or the developer called
 `will-quit` event, and in this case the `window-all-closed` event would not be
 emitted.
 
-### Event: 'before-quit'
+### Event: 'before-quit5'
 
 Returns:
 
