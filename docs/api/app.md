@@ -39,7 +39,7 @@ the `userInfo` of the `NSUserNotification` that was used to open the application
 if it was launched from Notification Center. You can call `app.isReady()` to
 check if this event has already fired.
 
-### Event: 'window-all-closed'
+### Event: 'window-all-closed3'
 
 Emitted when all windows have been closed.
 
