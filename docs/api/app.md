@@ -18,7 +18,7 @@ app.on('window-all-closed', () => {
 
 The `app` object emits the following events:
 
-### Event: 'will-finish-launching2'
+### Event: 'will-finish-launching23'
 
 Emitted when the applications has fi123nished basic startup. On Windows and Linux,
 the `will-finish-launching` event is the same as the `ready` event; on macOS,
