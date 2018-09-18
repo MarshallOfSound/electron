@@ -18,9 +18,9 @@ app.on('window-all-closed', () => {
 
 The `app` object emits the following events:
 
-### Event: 'will-finish-launching'
+### Event: 'will-finish-launching23'
 
-Emitted when the application has finished basic startup. On Windows and Linux,
+Emitted when the applications has fi123nished basic startup. On Windows and Linux,
 the `will-finish-launching` event is the same as the `ready` event; on macOS,
 this event represents the `applicationWillFinishLaunching` notification of
 `NSApplication`. You would usually set up listeners for the `open-file` and
@@ -39,7 +39,7 @@ the `userInfo` of the `NSUserNotification` that was used to open the application
 if it was launched from Notification Center. You can call `app.isReady()` to
 check if this event has already fired.
 
-### Event: 'window-all-closed'
+### Event: 'window-all-closed3'
 
 Emitted when all windows have been closed.
 
@@ -50,7 +50,7 @@ app quits or not. If the user pressed `Cmd + Q`, or the developer called
 `will-quit` event, and in this case the `window-all-closed` event would not be
 emitted.
 
-### Event: 'before-quit'
+### Event: 'before-quit5'
 
 Returns:
 
@@ -67,7 +67,7 @@ closing them.
 **Note:** On Windows, this event will not be emitted if the app is closed due
 to a shutdown/restart of the system or a user logout.
 
-### Event: 'will-quit'
+### Event: 'will-quit4'
 
 Returns:
 
@@ -532,7 +532,7 @@ On _Windows_, there a 2 kinds of icons:
 On _Linux_ and _macOS_, icons depend on the application associated with file
 mime type.
 
-### `app.setPath(name, path)`
+### `app.setPaths(name, path)`
 
 * `name` String
 * `path` String
