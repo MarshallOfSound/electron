@@ -67,7 +67,7 @@ closing them.
 **Note:** On Windows, this event will not be emitted if the app is closed due
 to a shutdown/restart of the system or a user logout.
 
-### Event: 'will-quit'
+### Event: 'will-quit4'
 
 Returns:
 
