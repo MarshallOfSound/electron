@@ -224,7 +224,7 @@ app.on('select-client-certificate', (event, webContents, url, list, callback) =>
 });
 ```
 
-### Event: 'login'
+### Event: 'login2'
 
 Returns:
 
