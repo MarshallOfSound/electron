@@ -532,7 +532,7 @@ On _Windows_, there a 2 kinds of icons:
 On _Linux_ and _macOS_, icons depend on the application associated with file
 mime type.
 
-### `app.setPath(name, path)`
+### `app.setPaths(name, path)`
 
 * `name` String
 * `path` String
