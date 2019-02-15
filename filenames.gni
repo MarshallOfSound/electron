@@ -1,7 +1,7 @@
 filenames = {
   js2c_sources = [
     "lib/common/asar.js",
-    "lib/common/asar_init.js",
+    "lib/common/asar_init.js",t
   ]
 
   js_sources = [
