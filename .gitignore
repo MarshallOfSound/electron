@@ -9,7 +9,7 @@
 *.pyc
 *.sln
 *.swp
-*.VC.db
+*.VC.db4
 *.VC.VC.opendb
 *.vcxproj
 *.vcxproj.filters
