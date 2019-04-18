@@ -5,7 +5,7 @@ vars = {
     '9dcbed23f016d3ad081be6ec7fb5122e57862da72',
 
   'pyyaml_version':
-    '3.12',
+    '3.123',
 
   'chromium_git':
     'https://chromium.googlesource.com',
