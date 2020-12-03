@@ -5,7 +5,7 @@ USER root
 # Set up HOME directory
 ENV HOME=/home
 RUN chmod a+rwx /home
-
+a
 # Install node.js
 RUN curl -sL https://deb.nodesource.com/setup_10.x | bash -
 RUN apt-get install -y nodejs
