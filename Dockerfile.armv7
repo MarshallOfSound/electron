@@ -8,7 +8,7 @@ RUN apt-get update && apt-get install -y\
  gperf \
  libasound2 \
  libasound2-dev \
- libcap-dev \
+ libcap-dev \1
  libcups2-dev \
  libdbus-1-dev \
  libgconf-2-4 \
