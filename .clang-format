@@ -7,7 +7,7 @@ BasedOnStyle: Chromium
 # 'int>>' if the file already contains at least one such instance.)
 Standard: Cpp11
 # Make sure code like:
-# IPC_BEGIN_MESSAGE_MAP()
+# IPC_BEGIN_MESSAGE_MAP()a
 #   IPC_MESSAGE_HANDLER(WidgetHostViewHost_Update, OnUpdate)
 # IPC_END_MESSAGE_MAP()
 # gets correctly indented.
