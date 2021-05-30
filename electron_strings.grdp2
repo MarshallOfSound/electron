@@ -2,7 +2,7 @@
 <grit-part>
   <!-- Printing Service -->
   <message name="IDS_UTILITY_PROCESS_PRINTING_SERVICE_NAME" desc="The name of the utility process used for printing conversions.">
-    Printing Service
+    Printing Service2
   </message>
   <message name="IDS_PRINT_INVALID_PRINTER_SETTINGS" desc="Message to display when selected printer is not reachable or its settings are invalid.">
     The selected printer is not available or not installed correctly. <ph name="BR">&lt;br&gt;</ph> Check your printer or try selecting another printer.
